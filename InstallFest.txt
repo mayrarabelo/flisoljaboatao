@@ -35,10 +35,15 @@ Requisitos para o workshop:
 
 O que é Install Fest?
 
-É um evento, geralmente patrocinado por um grupo de usuários Linux, em que pessoas se reúnem para realizar instalações em massa de sistemas operacionais de computador ou software livre, principalmente o sistema operacional Linux e outros softwares de código aberto.
+Eventos, em que pessoas se reúnem para realizar instalações em massa de sistemas operacionais de computador ou softwares livres, principalmente o sistema operacional Linux e outros softwares de código aberto.
 Fonte:flisol.info/InstallFest
 
 Requisitos para o Install Fest:
 - Trazer o seu computador;
 - Fazer backup dos seus dados.
 
+Distribuições:
+- Linux Mint;
+- Debian 8;
+- Manjaro.
+- ou você pode sugerir uma outra distribuição, é só entrar em contato.

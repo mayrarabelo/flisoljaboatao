@@ -29,13 +29,13 @@ Palestra: Desenvolvendo soluções para o mundo real c/ Arduino;
 Workshop: Monte um robô controlado por Bluetooth (Arduino); 
 Requisitos para o workshop:
 - Levar notebook;
-- instalar a IDE Arduino, disponível no site: https://www.arduino.cc/en/Main/Software
+- Ter instalado a IDE Arduino, disponível no site: https://www.arduino.cc/en/Main/Software
 
 
 
 O que é Install Fest?
 
-Eventos, em que pessoas se reúnem para realizar instalações em massa de sistemas operacionais de computador ou softwares livres, principalmente o sistema operacional Linux e outros softwares de código aberto.
+Eventos em que pessoas se reúnem para realizar instalações em massa de sistemas operacionais de computador ou softwares livres, principalmente o sistema operacional Linux e outros softwares de código aberto.
 Fonte:flisol.info/InstallFest
 
 Requisitos para o Install Fest:

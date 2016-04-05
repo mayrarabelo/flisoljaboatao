@@ -1,0 +1,44 @@
+O Festival Latino-americano de Instalação de Software Livre (FLISoL) é o maior evento da América Latina de divulgação de Software Livre. Ele é realizado desde o ano de 2005, e desde 2008 sua realização acontece no 4º sábado de abril de cada ano. 
+
+Seu principal objetivo é promover o uso de Software Livre, mostrando ao público em geral sua filosofia, abrangência, avanços e desenvolvimento. 
+
+Para alcançar estes objetivos, diversas comunidades locais de Software Livre (em cada país/cidade/localidade), organizam simultâneamente eventos em que se instala, de maneira gratuita e totalmente legal, Software Livre nos computadores dos participantes. Além disso, paralelamente acontecem palestras, apresentações e workshops, sobre temas locais, nacionais e latino-americanos sobre Software Livre, em toda a sua expressão: artística, acadêmica, empresarial e social.
+Fonte:http://flisol.info/FLISOL2016/Brasil
+
+Essa é a primeira edição do FLISoL em Jaboatão dos Guararapes. Contaremos com palestras, workshops, apresentação de projetos, sala Livre, sala de jogos Livres, campeonato de jogos Livres e o famoso Installfest.
+
+Cronograma FLISoL Jaboatão:
+
+MANHÃ:
+Install Fest;
+Sala Livre;
+Palestra: História e Cultura do Software Livre;
+Palestra: Criando a Internet das Coisas com Software Livre;
+Palestra: PHP;
+Palestra: IDS/IPS como Elementos da Segurança da Informação;
+Palestra: Python: Mitos e verdades;
+Palestra: O Admirável Mundo do Hardware Livre;
+Palestra: Migração.
+
+TARDE:
+Install Fest;
+Sala Livre;
+Apresentaçãoes de projetos;
+Campeonato Frets on Fire (game);
+Palestra: Desenvolvendo soluções para o mundo real c/ Arduino;
+Workshop: Monte um robô controlado por Bluetooth (Arduino); 
+Requisitos para o workshop:
+- Levar notebook;
+- instalar a IDE Arduino, disponível no site: https://www.arduino.cc/en/Main/Software
+
+
+
+O que é Install Fest?
+
+É um evento, geralmente patrocinado por um grupo de usuários Linux, em que pessoas se reúnem para realizar instalações em massa de sistemas operacionais de computador ou software livre, principalmente o sistema operacional Linux e outros softwares de código aberto.
+Fonte:flisol.info/InstallFest
+
+Requisitos para o Install Fest:
+- Trazer o seu computador;
+- Fazer backup dos seus dados.
+
